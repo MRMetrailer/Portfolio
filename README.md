@@ -1,6 +1,7 @@
 # Portfolio
 
-This is my portfolio page.
+Click on the link to view my [portfolio](https://mrmetrailer.github.io/Portfolio/).
+
 
 ## Description
 
